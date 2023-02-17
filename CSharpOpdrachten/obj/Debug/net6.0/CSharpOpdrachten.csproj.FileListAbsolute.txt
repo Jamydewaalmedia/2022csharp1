@@ -1,0 +1,15 @@
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\obj\Debug\net6.0\CSharpOpdrachten.csproj.AssemblyReference.cache
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\obj\Debug\net6.0\CSharpOpdrachten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\obj\Debug\net6.0\CSharpOpdrachten.AssemblyInfoInputs.cache
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\obj\Debug\net6.0\CSharpOpdrachten.AssemblyInfo.cs
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\obj\Debug\net6.0\CSharpOpdrachten.csproj.CoreCompileInputs.cache
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\bin\Debug\net6.0\CSharpOpdrachten.exe
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\bin\Debug\net6.0\CSharpOpdrachten.deps.json
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\bin\Debug\net6.0\CSharpOpdrachten.runtimeconfig.json
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\bin\Debug\net6.0\CSharpOpdrachten.dll
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\bin\Debug\net6.0\CSharpOpdrachten.pdb
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\obj\Debug\net6.0\CSharpOpdrachten.dll
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\obj\Debug\net6.0\refint\CSharpOpdrachten.dll
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\obj\Debug\net6.0\CSharpOpdrachten.pdb
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\obj\Debug\net6.0\CSharpOpdrachten.genruntimeconfig.cache
+C:\Users\jamyd\Documents\ma\bewijzenmap\periode.1.3\flex\2022csharp1\CSharpOpdrachten\obj\Debug\net6.0\ref\CSharpOpdrachten.dll
